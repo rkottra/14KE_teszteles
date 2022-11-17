@@ -1,0 +1,15 @@
+.led {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    float: left;
+}
+
+.on {
+    background-color: lime;
+}
+
+.off {
+    background-color: red;
+}
+
